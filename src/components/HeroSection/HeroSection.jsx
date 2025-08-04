@@ -17,8 +17,8 @@ const HeroSection = () => {
           technological evolution. We deploy a team of expert developers
         </p>
         <div className="hero-buttons">
-          <button className="btn-primary">Get in Touch</button>
-          <button className="btn-secondary">Our Works</button>
+          <button className="btn btn-primary">Get in Touch</button>
+          <button className="btn btn-secondary">Our Works</button>
         </div>
       </div>
 
