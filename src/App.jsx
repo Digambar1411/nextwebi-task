@@ -4,6 +4,7 @@ import Contact from './components/ContactUs/ContactUs'
 import LandingPage from './components/LandingPage/LandingPage'
 import OffshoreDevelopment from './components/Offshore/Offshore1'
 import OffshoreDevelopment2 from './components/Offshore/Offshore2'
+import Technologies from './components/Technology/Technologies'
 import TrustedPartener from './components/TrustedParteners/TrustedPartener'
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <OffshoreDevelopment />
       <OffshoreDevelopment2 />
       <TrustedPartener />
+      <Technologies />
       <Blogs />
       <Contact />
     </>
