@@ -11,13 +11,13 @@ const blogs = [
   {
     title: "AI Ethics",
     description: "Explore the ethical dilemmas and considerations surrounding AI with guest speaker Dr. Michael Turner.",
-    image: "src/assets/blog2.png",
+    image: "../../assets/blog2.png",
     link: "#"
   },
   {
     title: "Machine Learning Explained",
     description: "Dive into the intricacies of machine learning with AI expert Sarah Davis. In this episode",
-    image: "src/assets/blog3.png",
+    image: "../../assets/blog3.png",
     link: "#"
   }
 ];
