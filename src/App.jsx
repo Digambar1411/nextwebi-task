@@ -17,7 +17,7 @@ function App() {
       <LandingPage />
       <OffshoreDevelopment />
       <OffshoreDevelopment2 />
-      <TrustedPartener />
+      {/* <TrustedPartener /> */}
       <Projects />
       <FAQ />
       <Testimonials />
