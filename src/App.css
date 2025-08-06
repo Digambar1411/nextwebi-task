@@ -1,3 +1,9 @@
 *{
   margin: 0;
 }
+
+:root{
+  --blue-color: #1468FB;
+  --blue-hover:#0052cc;
+  --color-white: #FFFFFF;
+}

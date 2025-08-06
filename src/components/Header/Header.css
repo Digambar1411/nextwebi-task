@@ -1,6 +1,5 @@
 
 :root{
-  --color-white:#FFFFFF;
   --font-family:'Montserrat';
 }
 
@@ -42,7 +41,8 @@
   background-color: var(--color-white);
   position: sticky;
   top: 0rem;
-  z-index: 2;
+  z-index: 20;
+  box-shadow: 0 4px 10px -2px rgba(0, 0, 0, 0.1);
 }
 
 .scrolled li{
