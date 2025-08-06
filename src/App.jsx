@@ -8,7 +8,7 @@ import OffshoreDevelopment2 from './components/Offshore/Offshore2'
 import Projects from './components/Projects/Project'
 import Technologies from './components/Technology/Technologies'
 import Testimonials from './components/Testimonials/Testimonials'
-import TrustedPartener from './components/TrustedParteners/TrustedPartener'
+// import TrustedPartener from './components/TrustedParteners/TrustedPartener'
 
 function App() {
 
