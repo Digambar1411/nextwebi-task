@@ -22,6 +22,7 @@
   transform: rotate(180deg); /* Rotate only image */
   transform-origin: center;
   z-index: -1; /* Keep image behind content */
+  height: 100vh;
 }
 
 
