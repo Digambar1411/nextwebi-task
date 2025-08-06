@@ -5,6 +5,7 @@ import FAQ from './components/FAQ/FAQ'
 import LandingPage from './components/LandingPage/LandingPage'
 import OffshoreDevelopment from './components/Offshore/Offshore1'
 import OffshoreDevelopment2 from './components/Offshore/Offshore2'
+import Projects from './components/Projects/Project'
 import Technologies from './components/Technology/Technologies'
 import Testimonials from './components/Testimonials/Testimonials'
 import TrustedPartener from './components/TrustedParteners/TrustedPartener'
@@ -17,6 +18,7 @@ function App() {
       <OffshoreDevelopment />
       <OffshoreDevelopment2 />
       <TrustedPartener />
+      <Projects />
       <FAQ />
       <Testimonials />
       <Technologies />
