@@ -58,12 +58,11 @@
 
 .divider{
   width: 80%;
-  height: 2px;
+  height: 1px;
   margin: 0 auto 10px auto;
-  background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0));
-  box-shadow: 0 1px 4px rgba(255, 255, 255, 0.2);
+  background: linear-gradient(to right, #ffffff00, #ffffff99, #ffffff00);
+  box-shadow: 0 1px 4px #ffffff33;
   border: none;
-  border-radius: 2px;
 }
 
 /* Right Section */
