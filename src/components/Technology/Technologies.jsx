@@ -9,12 +9,12 @@ const techCategories = [
 ];
 
 const techStack = [
-  { name: "HTML5", icon: "src/assets/html5.png" },
-  { name: "CSS3", icon: "src/assets/css3.png" },
-  { name: "Vue", icon: "src/assets/vue.png" },
-  { name: "Angular", icon: "src/assets/angular.png" },
-  { name: "JavaScript", icon: "src/assets/javascript.png" },
-  { name: "React", icon: "src/assets/react.png" },
+  { name: "HTML5", icon: "assets/html5.png" },
+  { name: "CSS3", icon: "assets/css3.png" },
+  { name: "Vue", icon: "assets/vue.png" },
+  { name: "Angular", icon: "assets/angular.png" },
+  { name: "JavaScript", icon: "assets/javascript.png" },
+  { name: "React", icon: "assets/react.png" },
 ];
 
 const Technologies = () => {

@@ -1,4 +1,4 @@
 .landing-page{
-  background: url("/src/assets/main.jpg") no-repeat center center/cover;
+  background: url("/assets/main.jpg") no-repeat center center/cover;
   box-sizing: border-box;
 }

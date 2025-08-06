@@ -22,7 +22,7 @@ const Header = () => {
   return (
     <header ref={headerRef} className="header">
     <div className="logo">
-      <img src="src/assets/logo.png" alt="Nextwebi Logo" width={100}/>
+        <img src="assets/logo.png" alt="Nextwebi Logo" width={100} />
     </div>
       <ul className="navbar">
         <li>Company ▼</li>

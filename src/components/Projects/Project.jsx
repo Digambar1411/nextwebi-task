@@ -5,16 +5,16 @@ const ProjectsData = [
   {
     heading: "Web application development for a real estate company in dubai",
     text: "Our client, a real estate agency based in Dubai, recognized the growing demand for a streamlined platform that would facilitate the process of buying and renting properties in Dubai.",
-    image: "/src/assets/project1.jpg",
+    image: "/assets/project1.jpg",
   },
   {
     heading: "Web application development for a real estate company in dubai",
     text: "Our client, a real estate agency based in Dubai, recognized the growing demand for a streamlined platform that would facilitate the process of buying and renting properties in Dubai.",
-    image: "/src/assets/project1.jpg",
+    image: "/assets/project1.jpg",
   },{
     heading: "Web application development for a real estate company in dubai",
     text: "Our client, a real estate agency based in Dubai, recognized the growing demand for a streamlined platform that would facilitate the process of buying and renting properties in Dubai.",
-    image: "/src/assets/project1.jpg",
+    image: "/assets/project1.jpg",
   }
 ];
 
@@ -47,7 +47,7 @@ const Projects = () => {
               <p>{ProjectsData[currentIndex].text}</p>
             </div>
             <div className="project-right-section">
-              <img src='src/assets/project1.jpg' alt={`project${currentIndex}`} />
+                <img src='assets/project1.jpg' alt={`project${currentIndex}`} />
             </div>
           </div>
           </div>

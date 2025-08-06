@@ -17,7 +17,7 @@
   content: "";
   position: absolute;
   inset: 0;
-  background: url('/src/assets/contact-bg.jpg') no-repeat center center;
+  background: url('/assets/contact-bg.jpg') no-repeat center center;
   background-size: cover;
   transform: rotate(180deg); /* Rotate only image */
   transform-origin: center;
