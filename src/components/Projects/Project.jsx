@@ -32,13 +32,15 @@ const Projects = () => {
   return (
     <section className="testimonial-section">
       <div className="projects-container">
-        <h2>Where great ideas became real results</h2>
-        <p>
-          Offshore development services refers to the practice of hiring a remote team or a software development company in a different company to help reduce development costs
-        </p>
+        <div className="project-header">
+          <h2>Where great ideas became real results</h2>
+          <p>
+            Offshore development services refers to the practice of hiring a remote team or a software development company in a different company to help reduce development costs
+          </p>
+        </div>
 
         <div className="testimonial-carousel">
-          <button className="carousel-btn prev" onClick={prevSlide}>❮</button>
+          <button className="project-carousel-btn prev" onClick={prevSlide}>❮</button>
 
           <div className="project-card-container">
           <div className="project-card">
@@ -53,7 +55,7 @@ const Projects = () => {
           </div>
 
           {/* Next Button */}
-          <button className="carousel-btn next" onClick={nextSlide}>❯</button>
+          <button className="project-carousel-btn next" onClick={nextSlide}>❯</button>
         </div>
 
         {/* Carousel Dots */}
