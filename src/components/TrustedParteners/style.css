@@ -1,0 +1,12 @@
+.wrapper{
+  background-color: #12131D;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper .img{
+  max-width: 1250px;
+  margin: 0 auto;
+  height: 400px;
+}
